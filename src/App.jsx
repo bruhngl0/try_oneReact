@@ -5,6 +5,7 @@ import Home from "./components/Home.jsx";
 
 import "./styles/App.scss"
 import "./styles/Header.scss"
+import "./styles/home.scss"
 
 function App() {
   
