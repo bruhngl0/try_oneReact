@@ -11,7 +11,7 @@ export default function Header(){
                 <Link to= {"/#about"}>About</Link>
                 <Link to= {"/#brands"}>Brands</Link>
                 <Link to= {"/services"}>Services</Link>
-                <Link to= {"/"}>Home</Link>
+               
             </main>
         </nav>
     )
